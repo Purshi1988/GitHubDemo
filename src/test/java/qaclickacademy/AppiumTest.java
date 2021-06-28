@@ -18,6 +18,14 @@ public class AppiumTest {
 			
 			System.out.println("IosApps");
 		}
+		
+		@Test
+		public void apiTesting()
+		{
+			
+			System.out.println("API Testing");
+		}
+
 
 
 
