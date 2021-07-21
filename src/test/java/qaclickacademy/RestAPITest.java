@@ -13,12 +13,7 @@ public void PostJira()
 	System.out.println("PostJira3");
 }
 
-@Test
-public void DeleteTwitter()
-{
-	
-	System.out.println("DeleteTwitter");
-}
+
 
 
 
