@@ -30,6 +30,12 @@ public class AppiumTest {
 		}
 
 
+		@Test
+		public void IosAppsLatest()
+		{
+			
+			System.out.println("IosAppsLatest");
+		}
 
 
 
